@@ -1,16 +1,16 @@
 ## Perfil de Consumo de água
 
-Autor: Carlos Marcelo Silva
+👤 Autor: Carlos Marcelo Silva
 
 Programa utilizado: Python
 
 
-## Funcionalidade
+💻 Sobre o projeto
 
 O programa desenvolvido para auxiliar no aprendizado de operadores lógicos.
 
 
-## Como funciona
+🧮 Como funciona
 
 O usuário vai informar o tipo de imovel que ele possui, (comercial), (casa), (apartamento). Após a identificação do imóvel vai ser solicitado o consumo mensal.
 
